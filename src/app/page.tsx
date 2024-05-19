@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div className="flex justify-center p-8">
       <Teclado />
+      <Teclado />
     </div>
   );
 }
